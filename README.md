@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hello, my name is Łukasz and I’m from Poland. Last year I decided to change my career path. I was interested in programming and decided to give it a try. Despite some moments when I wanted to throw my laptop out the window, I found programming interesting and want to continue doing it because you can create almost anything with programming, limited only by your knowledge and skills. I’m learning Java and Android Studio. I use books and tutorials on YouTube. Greetings! 😊
+Hello, my name is Lucas and I’m from Poland. Last year I decided to change my career path. I was interested in programming and decided to give it a try. Despite some moments when I wanted to throw my laptop out the window, I found programming interesting and want to continue doing it because you can create almost anything with programming, limited only by your knowledge and skills. I’m learning Java and Android Studio. I use books and tutorials on YouTube. Greetings! 😊
 
 <!--
 **17LucasS/17LucasS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
